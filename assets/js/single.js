@@ -92,5 +92,3 @@ var displayWarning = function (repo) {
   // append to warning container
   limitWarningEl.appendChild(linkEl);
 };
-// // delete after making get RepoName
-// getRepoIssues("facebook/react");
